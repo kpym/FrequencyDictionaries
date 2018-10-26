@@ -1,4 +1,4 @@
-# FrequencyDictionaries
+# [FrequencyDictionaries](https://github.com/kpym/FrequencyDictionaries)
 
 This repo contains frequency dictionaries that are text files with one word per line.
 
